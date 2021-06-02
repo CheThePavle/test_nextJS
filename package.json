@@ -4,7 +4,10 @@
   "description": "<h1>TEST</h1>",
   "main": "index.js",
   "scripts": {
-    "next": "next"
+    "dev": "next",
+    "devserver": "node server.js",
+    "build": "next build",
+    "start": "cross-env NODE_ENV=production node server.js"
   },
   "repository": {
     "type": "git",
