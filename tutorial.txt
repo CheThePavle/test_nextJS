@@ -1,0 +1,4 @@
+npm init -y
+npm i next react react-dom express
+change "scripts" (package.json) - "next": "next"
+
