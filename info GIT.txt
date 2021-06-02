@@ -11,3 +11,5 @@ git branch dev
 git checkout dev
 git commit -m "Two commit"
 git push -u origin dev
+
+git clone https://github.com/CheThePavle/test_nextJS
