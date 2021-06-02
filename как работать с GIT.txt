@@ -5,3 +5,7 @@ git config --global user.name "test"
 git config --global user.email "test@mail.ru"
 git remote add origin https://github.com/CheThePavle/test_nextJS.git
 git push -u origin master
+
+
+git branch dev
+git checkout dev
