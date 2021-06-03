@@ -1,1 +1,2 @@
-<h1>TEST</h1>
+<h1>NextJS Project</h1>
+RUN Project - <b>npm run dev</b>
