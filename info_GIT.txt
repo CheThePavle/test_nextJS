@@ -12,4 +12,8 @@ git checkout dev
 git commit -m "Two commit"
 git push -u origin dev
 
+git fetch
+git branch -a
+git diff remotes/origin/new new //сравнение
+
 git clone https://github.com/CheThePavle/test_nextJS
